@@ -32,12 +32,12 @@ Selenium.WebDriver.ChromeDriver     {87.0.4280.8800}     Arisha_Selenium
 
 #### RUNNING ####
 
-1.Install Visual Stusio 2019
-2.Install next Workloads: Universal Windows Platforms development, .NET desktop developement
-3.Create Console App(.NET Framework) project
-4.Install packages from NuGet Package Manager
-5.Make right click on your project name in Solution Explorer
-6.Select "Properties", then change Output type to Class Library
-5.Place classes files in your home directory
-6.Open TestExplorer and click "Run" to check tests (there is one failed - number 5)
+#1.Install Visual Stusio 2019
+#2.Install next Workloads: Universal Windows Platforms development, .NET desktop developement
+#3.Create Console App(.NET Framework) project
+#4.Install packages from NuGet Package Manager
+#5.Make right click on your project name in Solution Explorer
+#6.Select "Properties", then change Output type to Class Library
+#5.Place classes files in your home directory
+#6.Open TestExplorer and click "Run" to check tests (there is one failed - number 5)
  
