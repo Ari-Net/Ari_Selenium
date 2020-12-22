@@ -21,8 +21,7 @@ In failed test I try to get "Careers" element https://www.epam.com/ with all tre
 #Requires C# version="v4.0" sku=".NETFramework,Version=v4.7.2"
 
 #Requires the following packages: 
-Id                                  Versions             ProjectName                                                                                                                                                                                                                                         
---                                  --------             -----------                                                                                                                                                                                                                                         
+Id                                  Versions             ProjectName    
 NUnit                               {3.12.0}             Arisha_Selenium                                                                                                                                                                                                                                     
 NUnit3TestAdapter                   {3.17.0}             Arisha_Selenium                                                                                                                                                                                                                                     
 Selenium.WebDriver                  {3.141.0}            Arisha_Selenium                                                                                                                                                                                                                                     
@@ -30,7 +29,7 @@ Selenium.WebDriver.ChromeDriver     {87.0.4280.8800}     Arisha_Selenium
 
 #internet connection
 
-#### RUNNING ####
+####   RUNNING   ####
 
 #1.Install Visual Stusio 2019
 #2.Install next Workloads: Universal Windows Platforms development, .NET desktop developement
