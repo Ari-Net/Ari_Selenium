@@ -8,6 +8,7 @@ In failed test I try to get "Careers" element https://www.epam.com/ with all tre
 
 
 ####   SYSTEM REQUIRENMENTS   ####
+---
 
 #Runs on Lenovo with Windows10
 
@@ -34,8 +35,10 @@ Selenium.WebDriver.ChromeDriver     {87.0.4280.8800}     Arisha_Selenium
 ---
 
 #internet connection
+---
 
 ####   RUNNING   ####
+---
 
 1.Install Visual Stusio 2019
 ---
@@ -52,3 +55,4 @@ Selenium.WebDriver.ChromeDriver     {87.0.4280.8800}     Arisha_Selenium
 5.Place classes files in your home directory
 ---
 6.Open TestExplorer and click "Run" to check tests (there is one failed - number 5)
+---
