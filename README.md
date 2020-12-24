@@ -18,7 +18,7 @@ In failed test I try to get "Careers" element on [EPAM](https://www.epam.com/ "C
 ***
 ###  Requires the following packages  ###
 |Id                             |Versions        |
-|:-----------------------------:|:--------------:|
+|-------------------------------|:--------------:|
 |NUnit                          |{3.12.0}        |    
 |NUnit3TestAdapter              |{3.17.0}        |  
 |Selenium.WebDriver             |{3.141.0}       |     
