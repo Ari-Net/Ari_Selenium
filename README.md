@@ -6,7 +6,7 @@ There is no POM here.
 From 8 scenarios 7 passed and 1 failed.
 In failed test I try to get "Careers" element on [EPAM](https://www.epam.com/ "Click to open") with all tree callings, but get next "because of System.NullReferenceException : Object reference not set to an instance of an object".
 ***
-###   SYSTEM REQUIRENMENTS   ###
+###   System requirenments   ###
 * Runs on Lenovo with Windows10
 * Requires Microsoft Visual Studio 2019
 * Automation API WebDriver
@@ -24,7 +24,7 @@ In failed test I try to get "Careers" element on [EPAM](https://www.epam.com/ "C
 |Selenium.WebDriver             |{3.141.0}       |     
 |Selenium.WebDriver.ChromeDriver|{87.0.4280.8800}|
 ***
-###   RUNNING   ###
+###   Running   ###
 1. Install Visual Stusio 2019
 2. Install next Workloads: Universal Windows Platforms development, .NET desktop developement
 3. Create Console App(.NET Framework) project
